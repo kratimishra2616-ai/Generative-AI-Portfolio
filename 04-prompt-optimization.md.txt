@@ -1,0 +1,20 @@
+# Prompt Optimization Task
+
+## Weak Prompt
+“Tell me about AI.”
+
+## Objective
+Rewrite the prompt to improve:
+- specificity
+- response quality
+- output structure
+- clarity
+
+## Improved Prompt
+Explain Generative AI in simple language with:
+- real-world examples
+- applications
+- limitations
+- future scope
+
+Maximum 300 words.
