@@ -1,0 +1,12 @@
+# Hallucination Detection Prompt
+
+## Task
+Review the AI-generated answer and identify factual inaccuracies.
+
+## AI Output
+“The Great Wall of China is visible from the moon.”
+
+## Instructions
+- Detect hallucinated claims
+- Explain factual correction
+- Rewrite the response accurately
